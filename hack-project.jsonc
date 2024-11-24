@@ -1,0 +1,10 @@
+{ 
+    // nombre de su producto / solución
+    "project_name": "ragtapp",
+    // descripción de una frase y directa al grano de la solución
+    "oneliner": "let devs, dev",
+    // url al logo de proyecto. mínimo 200x200, png. puede estar hosteado en el mismo repo.
+    "logo_url": "https://drive.google.com/file/d/1Zen3A9SbrzA0k1AyB16_0lpJUXdtlYwA/edit",
+    // url para acceder a su app. si es apk u otro, link de descarga directa.
+    "app_url": "https://comovamo.app/"
+}

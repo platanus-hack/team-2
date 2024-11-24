@@ -1,0 +1,2 @@
+RagTapp es un sistema de RAG con una interfaz gráfica sencilla, que permite a project managers y C-Levels obtener respuestas a preguntas clave respecto a los avances en nuevas features o proyectos, sin reuniones, usando el trabajo y documentación que los mismos devs van construyendo. Queremos que los desarrolladores puedan centrarse en lo que realmente importa.
+[Let devs, dev!](https://comovamo.app/)
