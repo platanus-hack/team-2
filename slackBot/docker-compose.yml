@@ -1,0 +1,11 @@
+
+
+
+services:
+  slack-bot:
+    container_name: slack-bot
+    build:
+      context: ./src
+    volumes:
+      - ./src:/usr/src/app
+    command: watchmedo auto-restart --directory=/usr/src/app --pattern="*.py" -- python main.py

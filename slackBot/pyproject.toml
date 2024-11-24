@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "slackbot"
+version = "0.1.0"
+description = ""
+authors = ["Camiloez <camilo.escobar.z@ug.uchile.cl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.115.5"
+slack-sdk = "^3.33.4"
+flask = "^3.1.0"
+slackeventsapi = "^3.0.3"
+slack-bolt = "^1.21.2"
+watchdog = "^6.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
